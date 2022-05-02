@@ -1,7 +1,6 @@
-# E-Commerce Backend
-
+# Ecommerce back-end
+  
   ![license](https://img.shields.io/badge/license-MIT-blue)
-
   ***
   ## Table of Contents
   - [Description](#description)
@@ -12,36 +11,29 @@
   - [Contribution](#contribution)
   - [Testing](#testing)
   - [Additional Info](#additional-info)
-
   ***
   ## Description
-  A backend program to help manage products.
-
+  Allows you to manage products using backend technology
   ***
   ## Technologies Used
-  
-
+  sequlize, express, mysql2, dotenv
   ***
   ## Visual Presentation
-  ![VisualPresentation](images/readmeVisualPresentation.gif)
-
+  ![VisualPresentation](images/ecommerce.jpg)
   ***
   ## Installation
-  Simply download from github and run `npm i` to get the needed packages.
-
+  Clone or fork the repo and npm i to get packages
   ***
   ## Usage
-  Connecting to your MySql backend to manage products.
-
+  Creating connection to mysql backend
   ***
   ## Contribution
-  Any can contribute, simply fork the repo.
-
+  N/a
   ***
   ## Testing
-  N/A
-
+  N/a
   ***
   ## Additional Info
-  - Github: TabuHana(https://github.com/TabuHana)
-  - Email: nate31196@outlook.com
+  - Executable: N/a
+  - Github: Ahrionic(https://github.com/Ahrionic)
+  - Email: koreyluu@gmail.com
